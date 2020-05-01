@@ -1,6 +1,6 @@
 # mean-first-project
-College BDA project for mean stack explanation
-Run the code:-
-
-npm  init
-npm install express body-parser mongoose 
+College BDA project for mean stack explanation<br>
+Run the code:-<br>
+<br>
+npm  init<br>
+npm install express body-parser mongoose<br> 
